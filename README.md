@@ -1,2 +1,2 @@
 # Phonegap
-Testing Phonegap API and..
+Testing Phonegap API and.
